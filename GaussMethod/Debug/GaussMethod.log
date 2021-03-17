@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\C++\GaussMethod\GaussMethod\Source.cpp(10,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\C++\GaussMethod\GaussMethod\Source.cpp(22,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\C++\GaussMethod\GaussMethod\Source.cpp(28,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\C++\GaussMethod\GaussMethod\Source.cpp(34,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\C++\GaussMethod\GaussMethod\Source.cpp(37,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\C++\GaussMethod\GaussMethod\Source.cpp(48,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\C++\GaussMethod\GaussMethod\Source.cpp(50,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\C++\GaussMethod\GaussMethod\Source.cpp(59,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\C++\GaussMethod\GaussMethod\Source.cpp(76,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\C++\GaussMethod\GaussMethod\Source.cpp(88,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\C++\GaussMethod\GaussMethod\Source.cpp(106,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\C++\GaussMethod\GaussMethod\Source.cpp(107,21): warning C4018: <: несоответствие типов со знаком и без знака
+  GaussMethod.vcxproj -> C:\C++\GaussMethod\Debug\GaussMethod.exe
